@@ -1,4 +1,5 @@
 resource "azurerm_resource_group" "example" {
+
   name     = "Ijenetwork"
   location = "West Europe"
 }
